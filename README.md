@@ -1,1 +1,2 @@
 # Car-Rental-Student-Project
+This is a simple Car Rental System project developed in C++ for a Computer Fundamentals / Programming course. It features basic user authentication, customer registration, car category selection (Economy, Normal, Luxury), rental cost calculation based on hourly rates, and review submission. The system uses file handling to store customer data, available cars, and reviews. It demonstrates fundamental programming concepts like structs, loops, conditionals, functions, and basic file I/O.
